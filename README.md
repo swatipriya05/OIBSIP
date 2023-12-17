@@ -1,3 +1,3 @@
 # OIBSIP
-These are my internship project of Oasis Infobytes
+These are my internship project of Oasis Infobytes.
 Author - Swati Priya
